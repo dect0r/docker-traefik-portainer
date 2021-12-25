@@ -1,4 +1,4 @@
-# Docker container management with Traefik v2 and Portainer
+# Docker container management with Traefik v2 and Portainer + nginx
 
 Based on:
 
