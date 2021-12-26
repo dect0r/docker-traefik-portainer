@@ -1,9 +1,6 @@
-# Docker container management with Traefik v2 and Portainer + nginx
+# Docker container management with Traefik v2, Portainer and Nginx
 
-Based on:
-
-##  Detailed explanation how to use this in my blog post:
-### [Docker container management with Traefik v2 and Portainer](https://rafrasenberg.com/posts/docker-container-management-with-traefik-v2-and-portainer/)
+Based on: [Docker container management with Traefik v2 and Portainer](https://rafrasenberg.com/posts/docker-container-management-with-traefik-v2-and-portainer/)
 
 A configuration set-up for a Traefik v2 reverse proxy along with Portainer and Docker Compose.
 
